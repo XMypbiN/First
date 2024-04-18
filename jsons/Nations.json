@@ -2,8 +2,8 @@
 	{
 		"name": "Russia",
 		"leaderName": "Catherine",
-		"adjective": ["Russian"],
-		"startBias": ["Tundra"],
+		"adjective": ["Russian!"],
+		"startBias": ["Avoid [Tundra]","Avoid [Desert]"],
 		"preferredVictoryType": "Scientific",
 
 
@@ -22,7 +22,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Siberian Riches",
 		"uniques": ["[+3 Production] from every [Strategic resource]","Double quantity of [Horses] produced",
-			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced", "[+25]% Production towards any buildings that already exist in the Capital"],
+			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced", "[+125]% Production towards any buildings that already exist in the Capital"],
 		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
