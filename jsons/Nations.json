@@ -22,7 +22,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Siberian Riches",
 		"uniques": ["[+3 Production] from every [Strategic resource]","Double quantity of [Horses] produced",
-			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced", "[+125]% Production towards any buildings that already exist in the Capital"],
+			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced", "[+125]% Production towards any buildings that already exist in the Capital", "[+1000]% Golden Age length", "[+2] Movement <for [All] units> <during a Golden Age>", "[+50]% Strength <for [All] units> <during a Golden Age>"],
 		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
